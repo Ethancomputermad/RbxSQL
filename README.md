@@ -7,7 +7,7 @@ Query an SQL Server from Lua!
 Getting started
 ======
 
-To start, put RbxSQL.lua in its own script, then for any script you wish to use RBXSql from, enter the following at the start
+To start, put RbxSQL.lua in its own script, then for any script you wish to use RbxSQL from, enter the following at the start
 ```
 RbxSQL={} repeat wait() until _G.RbxSQL _G.RbxSQL()
 ```
