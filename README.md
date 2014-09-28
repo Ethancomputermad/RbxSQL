@@ -1,3 +1,5 @@
+Copyright(C) Ethan Sweet 2014, All Rights Reserved. Service may be terminated at any time. Permission to use the source below and service may be withdrawn at any time for any reason.
+
 RbxSQL
 ======
 
