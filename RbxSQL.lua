@@ -72,7 +72,7 @@ funcs={
 			end
 		end
 		if sqlerr==true then
-			print('MySQL Error: ',resp[1])
+			print('SQL Error: ',resp[1])
 		end
 		return resp
 	end
