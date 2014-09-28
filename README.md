@@ -15,7 +15,7 @@ RbxSQL={} repeat wait() until _G.RbxSQL _G.RbxSQL()
 Documentation
 ======
 
-* = Optional
+A * = Optional
 
 RbxSQL.connect([string] hostname, [string] username, [string] password, *[string] database, *[string] port, *[string] socket)
 
