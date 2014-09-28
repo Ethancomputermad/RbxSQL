@@ -36,3 +36,7 @@ RbxSQL.query(connection,'INSERT INTO hello (world) VALUES ("mark")')
 
 connection:disconnect()
 ```
+
+Support me
+======
+https://streamtip.com/t/rbxethan
