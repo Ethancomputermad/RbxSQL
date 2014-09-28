@@ -43,4 +43,5 @@ https://streamtip.com/t/rbxethan
 
 Notice (Legal stuff)
 ======
-Copyright(C) Ethan Sweet 2014, All Rights Reserved. Service may be terminated at any time. Permission to use the source below and service may be withdrawn at any time for any reason.
+Copyright(C) Ethan Sweet / Ethancomputermad 2014, All Rights Reserved. Service may be terminated at any time. Permission to use the source below and service may be withdrawn at any time for any reason. This notice shall not be removed from the source, or any variation of the source, removing this notice shall result in immediete loss of permission to use the services and source.
+
